@@ -1,0 +1,811 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.sideLine{
+   height: 200px;
+    border- 2px solid red;
+    rotate: -90;
+}
+.container{
+    width: 80vw;
+    margin: auto;
+}
+.heroSection{
+    margin-top: -150px;
+}
+.hero{
+    display: flex;
+    width: 139px;
+    
+}
+.hero img{
+    height: 33px;
+    width: 33px; 
+}
+h6{
+    color: #2995E3;
+    font-size: 16px;
+    justify-content: space-between;
+    line-height: 35px;
+    font-weight: 700px;
+}
+.navContent{
+    display: flex;
+    font-size: 16px;
+    list-style: none;
+    gap: 50px;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+.navBar{
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.navbarBox{
+    width: 1258px;
+    height: 44px;
+    border: none;
+}
+.sign > button{
+    /* color: #8e8e8e; */
+    padding: 12px 30px;
+    background-color: transparent;
+   border: 1px solid #3f3f3f;
+}
+.everyOne{
+    width: 556px;
+    height: 186px;
+    border: none;
+    margin-top: 110px;
+    margin-left: 1px;
+    position: absolute;
+    line-height: 50px;
+    font-size: 20px;
+    font-weight: 700;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.hightlight{
+    font-weight: 700;
+    line-height: 50px;
+    color: #2995E3;
+
+
+
+}
+.hightlight2{
+    font-weight: 700;
+    line-height: 50px;
+    color: #2995E3;
+}
+.other{
+    width: 428px;
+    height: 36px;
+    margin-top: 5px; 
+    /* position: relative; */
+    font-size: 10px;
+    line-height: 35.61px;
+    color: #3f3f3f;
+    
+}
+.getStory{
+    width: 374px;
+    height: 51px;
+    border: none;
+    display: flex;
+    margin-top: 38px;
+}
+
+.started{
+    width: 143px;
+    height: 44px;
+    color: white;
+    font-size: 14px;
+    gap: 10px;
+    background-color: #2995E2;
+    padding-top: 1px;
+    padding-left: 18px;
+    position: absolute;
+
+}
+.started1{
+    width: 149px;
+    height: 51px;
+    background-color: white;
+    border: 2px solid #4e4e4e;
+}
+
+
+.started2{
+    width: 129px;
+    height: 36px;
+    font-size: 12px;
+    position: absolute;
+    color: #3f3f3f;
+    margin-left:20px;
+    font-family: Verdana;
+    font-weight: 600px;
+    
+
+
+}
+.storyPlay{
+    display: flex;
+    
+}
+.play {
+    background-color:transparent;
+    border: none;
+    width: 32px;
+    height: 32px;
+    position: relative;
+    color: #D6EEFF;
+    margin-top: 10px;
+    margin-left: 136px;
+    position: relative;
+    
+}
+.twoPeople{
+    width: 577px;
+    height: 467px;
+    margin-left: 680px;
+    margin-top: 200px;
+}
+.cloud{
+    width: 232px;
+    height: 85px;
+    margin-left: 270px;
+    margin-top: 50px;
+}
+.allAbout{
+    width: 819px;
+    height: 198px;
+    margin-top: -70px;
+    margin-left: 200px;
+    
+}
+.about{
+    width: 174px;
+    height: 82px;
+    margin-left: 360px;
+    font-size: 44px;
+    line-height: 82.46px;
+    color: #3f3f3f;
+}
+.french{
+    width: 819px;
+    height: 108px;
+    font-size: 19px;
+    line-height: 35.61px;   
+    gap: 8px; 
+}
+.serv{
+    width: 343px;
+    height: 111px;
+    margin-top: -50px;
+}
+.serv .service{
+    width: 217px;
+    height: 75px;
+    color: #2995E2;
+    font-weight: 700;
+    line-height: 74.96px;
+}
+/* .following{
+    width: 343px;
+    height: 36px;
+    font-weight: 600;
+    font-size: 18px;
+    color: #4f4f4f;
+    line-height: 35.61px;
+} */
+.tent{
+    width: 160px;
+    height: 97px;
+    margin-left: 900px;
+}
+
+ .childrenBox{
+    width: 525px;
+    height: 319px;
+    margin-top: 80px;
+ }
+ .gurdian{
+    width: 525px;
+    height: 52px;
+    font-size: 26.9px;
+    line-height: 52.47px;
+    font-weight: 700;
+ }
+ .french2{
+    width: 493px;
+    height: 144px;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 35.61px;
+ }
+ .aboutThis{
+    width: 181.14px;
+    height: 62px;
+ }
+ .this{
+    width: 173.84px;
+    height: 53.49px;
+    background-color: #2995E2;
+    color: white;
+    font-size: 25px;
+    padding-left: 28px;
+    padding-top: 10px;
+    position: absolute;
+
+ }
+ .thisSpace{
+    width: 180.84px;
+    height: 60.49px;
+    background-color: white;
+    border: 3px solid #2995E2;
+ }
+ .bending{
+    width: 722px;
+    height: 424px;
+    margin-left: 10px;
+ }
+ .hero2{
+    display: flex;
+
+ }
+ .oldMan{
+    width: 641px;
+    height: 465px;
+
+    margin-top: 50px;
+ }
+ .elderly{
+    width: 493px;
+    height: 313px;
+     margin-left: 800px;
+     margin-top: -370px;
+ }    
+ .helping{
+    width: 261px;
+    height: 52px;
+    font-size: 27px;
+    line-height: 52.47px;
+    font-weight: 700;
+ }
+ .french3{
+    width: 493px;
+    height: 144px;
+    color: #4f4f4f;
+    font-size: 19px;
+    line-height: 35.61px;
+    font-weight: 600;
+ }
+ .about2{
+    width: 163.61px;
+    height: 56px;
+    margin-top: 20px;
+ }
+.this2{
+    width: 157.01px;
+    height: 48.31px; 
+    background-color: #2995E3;
+    color: white;
+    margin-top: -6px;
+    margin-left: -3px;
+    padding-left: 39px;
+    font-size: 15px;
+    align-content: center;
+    position: absolute;
+
+    
+ }
+ .thisSpace2{
+    width: 163.02px;
+        height: 48.31px;;
+        background-color: white;
+        border: 2px solid #4e4e4e;
+
+ }
+ .number3{
+    width: 493px;
+    height: 320px;
+    margin-top: 130px;
+ }
+ .number3 .buying{
+    width: 328px;
+    height: 52px;
+    font-weight: 700;
+    font-size: 27.5px;
+    line-height: 52.47px;
+    color: #3f3f3f;
+}
+.french4{
+    width: 493px;
+    height: 144px;
+}
+.about3{
+    width: 163.61px;
+    height: 56px;
+    margin-top: 20px;
+}
+.this3{
+    width: 157.01px;
+    height: 48.31px; 
+    background-color: #2995E3;
+    color: white;
+    margin-top: -6px;
+    margin-left: -3px;
+    padding-left: 39px;
+    font-size: 15px;
+    align-content: center;
+    position: absolute;
+
+}
+.thisSpace3{
+    width: 163.02px;
+    height: 48.31px;;
+    background-color: white;
+    border: 2px solid #4e4e4e;
+
+}
+.cart{
+    width: 678px;
+    height: 410px;
+    margin-top: 100px;
+    margin-left: 122px;
+}
+.hero3{
+    display: flex;
+}
+.rectangle{
+    width: 1148px;
+    height: 323px;
+    background-color: #2995E2;
+    margin-top: 100px;
+    margin-left: 70px;
+    display: flex; 
+   border-color:whitesmoke;  
+}
+.house{
+    width: 457px;
+    height: 313px;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+.doYou{
+    width: 286px;
+    height: 180px;
+    margin-left: 200px;
+    margin-top:30px ;
+    
+}
+.specialHelp{
+    font-size: 35px;
+    line-height: 65.59px;
+    color: white;
+}
+.this4{
+    width: 157.01px;
+    height: 48.31px; 
+    background-color: white;
+    color: #4f4f4f;
+    margin-top: -6px;
+    margin-left: -1px;
+    padding-left: 30px;
+    font-size: 20px;
+    align-content: center;
+    position: absolute;
+}
+.thisSpace4{
+    width: 163.02px;
+    height: 48.31px;;
+    background-color: transparent;
+    border: 2px solid #4e4e4e;
+}
+.request{
+    width: 1179px;
+    height: 614px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+    
+.consult{
+    width: 1098px;
+    height: 531px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.free{
+    width: 552px;
+    height: 94px;
+
+   
+}
+.consultation{
+    width: 306px;
+    height: 47px;
+    font-size: 15px;
+    line-height: 46.85px;
+    color: #3f3f3f;
+}
+.complete{
+    width: 552px;
+    height: 36px;
+    font-size: 17.9px;
+    line-height: 35.61px;
+    color: #4F4F4F;
+}
+.form{
+    width: 1098px;
+    height: 405px;
+}
+.nameEmail{
+    width: 1098px;
+    height: 113px;
+    display: flex;
+    
+
+}
+.stateIndustry{
+    width: 1098px;
+    height: 113px;
+    margin-top: 100px;
+    display: flex;
+}
+.name{
+    width: 530px;
+    height: 113px;
+
+}
+
+
+.names{
+    
+}
+.nam{
+    width: 71px;
+    height: 32px;
+    font-size: 15px;
+    line-height: 31.86px;
+    color: #4f4f4f;
+}
+input{
+    width: 525px;
+    height: 65px;
+    margin-top: 10px;
+    color: #999999;
+}
+.emails{
+    width: 530px;
+    height: 113px;
+   margin-left: 35px;
+
+}
+.mail{
+    width: 41px;
+    height: 32px;
+    font-size: 15px;
+    line-height: 31.86px;
+    color: #4f4f4f;
+
+}
+.emails input{
+    width: 525px;
+    height: 65px;
+    margin-top: 10px;
+    color: #2995E2;
+    
+
+}
+.stateBox{
+    width: 530px;
+    height: 113px;
+  
+}
+.state{
+    width: 39px;
+    height: 32px;
+    color: #4f4f4f;
+    font-size: 15px;
+}
+select{
+    width: 530px;
+    height: 65px;
+    color: black;
+    margin-top: 13px;
+    margin-left: -3px;
+}
+option{
+    color: black;
+}
+.industryBox{
+    width: 530px;
+    height: 65px;
+    border: 1px;
+    margin-top: 48px;
+    margin-left: 35px;
+
+}
+.industry{
+    width:60px;
+    height: 32px;
+    border: 1px;
+    margin-top: -47px;
+    font-size: 15px;
+    
+}
+
+.submitTap{
+    width: 500px;
+    height: 65px;
+    border: 1px;
+    margin-left: 280px;
+    margin-top: 52px;
+    background-color: #2995E2;
+
+}
+.submite a{
+    width: 66px;
+    height: 34px;
+    margin-left: 230px;
+    margin-top: 12px;
+    font-size: 18px;
+    list-style: none;
+    color: #ffffff;
+    text-decoration: none;
+}
+.lastLine{
+    width: 1319px;
+    height: 260px;
+    border-top: 2px solid #c9c9c9;
+    margin-top: -30px;
+    display: flex;
+    position: absolute;
+}
+.lastSecond{
+    width: 1178px;
+    border: 2px solid #c9c9c9;
+    margin-top: 280px;
+}
+.helpBox{
+    width: 193.94px;
+    height: 133px;
+    margin-top: 50px;
+    margin-left: 18px;
+    position: absolute;
+}
+.imageHelp{
+    width: 193.94px;
+    height: 46px;
+
+    position: absolute;
+}
+.every{
+    width: 134px;
+    height: 42px;
+    margin-top: -35px;
+    margin-left: 56px;
+    line-height: 41.8px;
+    color: #2995E2;
+    font-size: 19px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.blueBox{
+    width: 176px;
+    height: 72px;
+    margin-top: 111px;
+    margin-left: 18px;
+    
+   
+}
+
+.sec{
+    font-size: 9.5px;
+}
+
+.hightlight3{
+    font-weight: 700;
+    line-height: 50px;
+    color: #2995E3;
+   
+   
+}
+.hightlight4{
+    font-weight: 700;
+    line-height: 50px;
+    color: #2995E3;
+}
+.sec2{
+    margin-top: -20px;
+    font-size: 17.9px;
+}
+.recBox{
+    width: 565px;
+    height: 218px;
+    margin-top: 50px;
+    margin-left: 420px;
+    line-height: 29.98px;
+
+ 
+ }
+ .recBox2{
+    width: 127px;
+    height: 218px;   
+}
+.service{
+    width: 59px;
+    height: 30px;
+    font-weight: 700;
+    line-height: 29.98px;
+    font-size: 16px;
+    color: #3f3f3f;
+}
+.buying{
+    width: 81px;
+    height: 30px;
+    font-weight: 500;
+    line-height: 29.98px;
+    font-size: 15.4px;
+    color: #3f3f3f;
+   
+}
+.theElder{
+    width: 125px;
+    height: 30px;
+    font-weight: 500;
+    color: #3f3f3f;
+    font-size: 14.8px;
+   
+}
+.guard{
+    width: 89px;
+    height: 30px;
+    font-weight: 500;
+    line-height: 29.98px;
+    font-size: 16px;
+    color: #3f3f3f;
+    
+}
+.other2{
+    width: 39px;
+    height: 30px;
+    font-weight: 500;
+    line-height: 29.98px;
+    color: #3f3f3f;
+    font-size: 16px;
+    
+
+}
+.jobs{
+    width: 30px;
+    height: 30px;
+    font-weight: 500;
+    line-height: 29.98px;
+    font-size: 16px;
+    color: #3f3f3f;
+  
+}
+.recBox3{
+    width: 72px;
+    height: 144px;
+    margin-left: 240px;
+    margin-top: -219px;
+    line-height: 29.98px;
+} 
+.info{
+    width: 28px;
+    height: 30px;
+    line-height: 29.98px;
+    font-weight: 700;
+    font-size: 15px;
+    color: #3f3f3f;
+}
+.us{
+    width: 61px;
+    height: 30px;
+    font-weight: 500;
+    line-height: 29.98px;
+    font-size: 15.8px;
+    color: #3f3f3f;
+
+}
+.contact{
+    width: 72px;
+    height: 30px;
+    font-weight: 500;
+    line-height: 29.98px;
+    font-size: 16px;
+    color: #3f3f3f;
+}
+.support{
+    width: 54px;
+    height: 30px;
+    font-weight: 500;
+    line-height: 29.98px;
+    color: #3f3f3f;
+    font-size: 16px;
+}  
+.officeBox{
+    width: 162px;
+    height: 181px;
+    margin-left: 402px;
+    margin-top: -145px;
+    
+} 
+.office{
+    width: 41px;
+    height: 30px;
+    font-weight: 700;
+    line-height: 29.98px;
+    font-size: 15px;
+    color: #3f3f3f;
+}
+.borer{
+    width: 162px;
+    height: 30px;
+    line-height: 29.98px;
+    font-weight: 500;
+    font-size: 16.7px;
+    color: #3f3f3f;
+}
+.zack{
+    width: 95px;
+    height: 30px;
+    line-height: 29.98px;
+    font-weight: 500;
+    color: #3f3f3f;
+    font-size: 16px;
+}
+.bah{
+    width: 64px;
+    height: 30px;
+    font-weight: 500;
+    line-height: 29.98px;
+    font-size: 16px;
+}
+.number{
+    width: 95px;
+    height: 30px;
+    font-weight: 500;
+    line-height: 29.98px;
+    color: #3f3f3f;
+    font-size: 16px;
+}
+.rightBox{
+    width: 1179px;
+    height: 30px;
+    margin-top: 20px;
+
+}
+.copyRight{
+    width: 382px;
+    height: 30px;
+    font-weight: 500;
+    line-height: 29.9px;
+    font-size: 16px;
+    color: #878787;
+    position: absolute;
+}
+.cookies{
+    width: 300px;
+    height: 30px;
+    line-height: 29.98px;
+    font-size: 16px;
+    font-weight: 500;
+    color: #878787;
+    margin-left: 875px;
+}
+.hightlight5{
+    font-weight: 700;
+    line-height: 29.98px;
+    color: #2995E2;
+    font-size: 16px;
+
+   
+}

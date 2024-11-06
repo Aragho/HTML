@@ -1,0 +1,18 @@
+<?xml version="1.0"?><svg width="256" height="256" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter height="1.218584" y="-0.109292" width="1.168649" x="-0.084325" id="filter3210">
+   <feGaussianBlur id="feGaussianBlur3212" stdDeviation="2.769177"/>
+  </filter>
+  <filter id="filter3226">
+   <feGaussianBlur id="feGaussianBlur3228" stdDeviation="0.173074"/>
+  </filter>
+ </defs>
+ <metadata id="metadata7">image/svg+xml</metadata>
+ <g>
+  <title>Layer 1</title>
+  <g id="layer1">
+   <path fill="#ffaaaa" stroke-width="7.5" stroke-miterlimit="4" filter="url(#filter3226)" d="m255.999939,128a128,127.999992 0 1 1 -255.999968,0a128,127.999992 0 1 1 255.999968,0z" id="path2383"/>
+   <path fill="#ffaaaa" stroke-width="7.5" stroke-miterlimit="4" filter="url(#filter3210)" d="m252.999939,114.799767a125,113.799767 0 1 1 -249.999974,0a125,113.799767 0 1 1 249.999974,0z" id="path2385"/>
+  </g>
+ </g>
+</svg>

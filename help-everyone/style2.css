@@ -1,0 +1,158 @@
+/* *{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.container{
+  width: 80vw;
+  margin: auto;
+} 
+.hero{
+  display: flex;
+  justify-content: space-between;
+  width: 139px;
+} 
+.hero img {
+  height: 33px;
+  width: 33px;
+}
+h6{
+  color: #2995e3;
+  font-size: 16px;
+  justify-content: space-between;
+  line-height: 35px;
+  font-weight: 700px;
+}
+.navContent ul{
+  display:flex;
+  list-style: none;
+  gap: 20px;
+  width: 200px; 
+  margin-top: 30px;
+}
+.navContent a{
+  color: black;
+  text-decoration: none;
+  font-size: 16px;
+ 
+}
+
+.navBar{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 700px;
+}
+  
+.sign button{
+  width: 130px;
+  height:44px;
+  border: 1px;
+  color: #8e8e8e;
+  margin-left: 300px;
+  margin-top:-400px;   
+}
+
+
+.gold{
+  display: flex;
+  margin-top: 100px;
+  gap: 900px;
+}
+
+.section{
+  width: 700px;
+  margin-left: 170px;
+  position: absolute;
+  font-size: 60px;
+ 
+}
+.section1{
+  width: 700px;
+  margin-left: 170px;
+  position: absolute;
+  margin-top: 80px;
+  font-size: 60px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ 
+}
+
+
+.hightlight{
+  color: #2995E2;
+}
+.hightlight2{
+  color: #2995E2;
+} 
+.help{
+ size: 19px;
+ color: #3F3F3F;
+ margin-left: 170px;
+ margin-top: -300px;
+ font-size: 19px;
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ white-space: nowrap;
+ 
+}    
+.tent{
+  display: flex;
+  gap: 46px;
+  width: 374;
+  height: 50px;
+  margin-left: 170px;
+  margin-top:50px;
+}
+.started{
+  position: absolute;
+  color: white;
+  width: 140px;
+  height: 44px;
+  gap: 10px;
+  background-color: #2995E2;
+  font-size: 18px;
+  padding-top: 10px;
+  padding-left: 18px
+  
+}
+.started2{
+  color: #3F3F3F;
+  width: 209;
+  height: 30px;
+  font-size: 19px;
+  margin-top: 10px;
+
+}
+.started1{
+  width: 148px;
+  height: 50px;
+  background-color: white;
+  border: 2px solid #4e4e4e;
+}
+.set{
+  display: flex;
+  margin-right:100px;
+  margin-top: 300px;
+}
+.about{
+  color: #4e4e4e;
+  width: 174px;
+  height: 82px;
+  font-size: 60px;
+  margin-left: 500px;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+ 
+
+
+}
+.french{
+  color: #4f4f4f;
+  width: 1000%;
+  height: 108px;
+  font-size: 19px;
+  align-items: center;
+  margin-top: 70px;
+  margin-left: 100px;
+
+
+}
+ */

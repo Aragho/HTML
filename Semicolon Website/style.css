@@ -1,0 +1,252 @@
+
+.nav{
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+    padding: 25px 80px;
+    cursor: pointer;
+}
+.mid-section{
+    display: flex;
+    font-weight: 700;
+    font-family: Arial;
+    font-size: 16px;
+    font-style: normal;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+    cursor: pointer;
+    color: #38516d;
+    /* margin: 20px; */
+}
+
+.mid-section > p{
+   padding: 10px 15px; 
+}
+.mid-section > div> button{
+    border-radius: 10px;
+    color: #ff2e2e;
+    font-weight: 700;
+    font-family: Arial;
+    font-size: 16px;
+    font-style: normal;
+    border-width: medium;
+    padding: 13px 35px;
+    border-color: red;
+    background-color: white;
+    cursor: pointer;
+    border: 2px solid #FF2E2E;
+
+} 
+ .Hero{
+    display: grid;
+    /* grid-template-columns: repeat(2, minmax(0, 2fr)); */
+    align-items: center; 
+    gap: 2.5rem;
+    padding: 5rem;
+    padding-top: 0rem;
+    
+}
+.hero1> h1{
+    color: #38516d;
+    font-family: sans-serif;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 550;
+    line-height: normal;
+    letter-spacing: -1px;
+}
+
+.hero1 > p{ 
+    font-size: 16px;  
+    font-weight: 400;  
+    font-family: sans-serif;
+    width: 90%;
+    color: #38516d; 
+    margin-top: -25px;
+}
+.individuals{
+    border-radius: 10px;
+    color: white;
+    font-weight: 700;
+    font-family: Arial;
+    font-size: 16px;
+    font-style: normal;
+    border-width: medium;
+    padding: 13px 35px;
+    border-color: white;
+    background-color: red;
+    cursor: pointer;
+    border: 2px solid #FF2E2E;
+    margin-right: 20px;
+}
+.businesses{
+    border-radius: 10px;
+    color: #ff2e2e;
+    font-weight: 700;
+    font-family: Arial;
+    font-size: 16px;
+    font-style: normal;
+    border-width: medium;
+    padding: 13px 35px;
+    border-color: red;
+    background-color: white;
+    cursor: pointer;
+    border: 2px solid #FF2E2E;
+}
+
+.image1 > img{
+    justify-self: center;
+    align-self: center;
+    max-height: 500px;
+    max-width: 900px;
+}
+
+.middle {
+    margin-bottom: 10px;
+    margin-top: 100px;
+    margin-left: 200px;
+    color: #38516d;
+    font-weight: bold;
+    font-size: 30px;    
+}
+.BoxContainer{
+    display: flex;
+    justify-content: center;
+
+}
+
+.first, .second{
+    font-family: IBM plex sans-serif;
+    background-color: #FF2E2E;
+    color: #ffffff;
+    border: 2px solid red;
+    font-size: 20px;
+    display: flex;
+    padding: 40px 20px 30px 25px;
+    flex-direction: column;
+    border-radius: 15px;
+    width: 500px;
+    margin-left: 80px;
+    height: 35vh;
+    justify-content: center;
+}
+.bolden{
+    font-size: 40px;
+    font-weight: bold;
+}
+.highlight{
+    color:#ff2e2e;
+}
+.end{
+    margin-bottom: 50px;
+    margin-top: 100px;
+    margin-left: 200px;
+    color: #38516d;
+    font-weight: bold;
+    font-size: 30px;  
+}
+.hightlight2{
+    color:#ff2e2e;
+}
+.tech{
+    color:#ff2e2e;
+    margin-bottom: 35px;
+    margin-top: 20px;
+    margin-left: 210px;
+    font-weight: bold;
+    font-size: 20px;
+    cursor:pointer; 
+}
+.talent{
+    color: rgb(124, 124, 202);
+    margin-bottom: 40px;
+    margin-top: 20px;
+    margin-left: 210px;
+    font-size: 20px; 
+    cursor:pointer;
+
+}
+.employ{
+    color: rgb(124, 124, 202);
+    margin-bottom: 35px;
+    margin-top: 20px;
+    margin-left: 210px;
+    font-size: 20px;
+    cursor:pointer; 
+
+}
+.project{
+    color: rgb(124, 124, 202);
+    margin-bottom: 35px;
+    margin-top: 20px;
+    margin-left: 210px;
+    font-size: 20px;
+    cursor:pointer; 
+}
+.venture{
+    color: rgb(124, 124, 202);
+    margin-bottom: 35px;
+    margin-top: 20px;
+    margin-left: 210px;
+    font-size: 20px; 
+}
+.image2 > img{
+    width: 662px;
+    height: 351px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    margin-left: 700px;
+    display: flex;
+    position: relative; 
+    bottom: 100px; 
+    cursor:pointer;
+    
+}
+.technology{
+    background-color: red;
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+    margin-left: 700px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    bottom: 100px;
+    position: relative;
+    width: 642px;
+
+    
+    
+}
+.technology-sub{}
+.bolden2{
+    font-size: 20px;
+    font-weight: bold;  
+}
+.learn {
+   font-weight: bold;
+   font-size: 20px;
+   cursor:pointer;
+}
+.line{
+    margin-top: -300px;
+    margin-left: 200px;
+    width: 4px;
+    height: 282px;
+    background-color: rgb(244, 239, 239);
+}
+.line2{
+    margin-top: -270px;
+    margin-left: 200px;
+    width: 4px;
+    height: 20px;
+    background-color: red;
+    border-radius: 10px;
+
+}
+.peachcircle{
+    width: 300px;
+    height: 300px;
+    background-color:rgb(192, 180, 170);
+    border-radius: 200px;
+}
