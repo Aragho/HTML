@@ -47,8 +47,7 @@ ul{
 
 }
 .tittleRating{
-    display: flex;
-    justify-content: space-between;
+    
 }
 .movie{
     width: auto;

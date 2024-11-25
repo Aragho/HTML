@@ -44,7 +44,7 @@ h1, h2{
     color: #444;
 }
 
-#book-list, #add-book, #tabbed-content{
+#book-list, #pagadd-book, #tabbed-content{
     margin: 30px;
 }
 
@@ -65,11 +65,11 @@ h1, h2{
 
 .delete{
     float: right;
-    background: #9361bf;
+    /* background: #9361bf;
     padding: 6px;
     border-radius: 4px;
     cursor: pointer;
-    color: white;
+    color: white; */
 }
 
 .delete:hover{
